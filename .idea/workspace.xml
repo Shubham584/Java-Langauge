@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41d04aac-866d-4872-af29-c513e4808e7e" name="Changes" comment="Wrapper Class Example">
-      <change afterPath="$PROJECT_DIR$/src/FinalDemo/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FinalDemo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FinalDemo/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Truck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WrapperClasses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WrapperClasses/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalDemo/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinalDemo/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalDemo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinalDemo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalDemo/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinalDemo/Parent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -46,7 +46,33 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Interface.Main">
+    <configuration name="FinalDemo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalDemo.Main" />
+      <module name="Java Language Module" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FinalDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Interface.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interface.Main" />
+      <module name="Java Language Module" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.Main" />
       <module name="Java Language Module" />
@@ -75,6 +101,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Interface.Main" />
+        <item itemvalue="Application.FinalDemo.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.WrapperClasses.Main" />
       </list>
@@ -110,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674284248339</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Wrapper Class Example">
+      <created>1674384256277</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674384256277</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">

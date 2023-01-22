@@ -1,19 +1,13 @@
 package FinalDemo;
 
-public class Parent {
+import java.util.Collection;
+import java.util.Collections;
+
+public abstract class Parent {
 
 
-    int marks = 0;
+    public abstract void putMark(int x);
+    public abstract int getMark();
 
-    final int getMarks(){
-        return marks;
-    }
 
-    final int getMarks(int b){
-        return 10;
-    }
-
-    void putMarks(int mark){
-        this.marks = mark;
-    }
 }
