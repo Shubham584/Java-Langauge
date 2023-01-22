@@ -1,6 +1,6 @@
 package OOP;
 
-public class Vehicle {
+abstract public class Vehicle {
 
     public int color;
     int price = 0;
@@ -23,5 +23,16 @@ public class Vehicle {
         System.out.println("Speed of Vehicle is: " + maxSpeed);
     }
 
+    void nonOverFun(){
+        System.out.println("NON - override Fun in Vehicle");
+    }
+
+    public void check(){
+        System.out.println("I am Vehicle");
+    }
+
+    public static void checkStatic(){
+        System.out.println("in Vehicle");
+    }
 
 }

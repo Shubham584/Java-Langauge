@@ -1,5 +1,7 @@
 package OOP;
 
+import java.util.Vector;
+
 public class Main {
 
     public static  void main(String []r){
@@ -9,7 +11,7 @@ public class Main {
         System.out.println((c.getPrice()));
 
         Truck t = new Truck(2, 80);
-        System.out.println(Vehicle.totalVehicle);
+        t.checkStatic();
 
     }
 }
